@@ -1,0 +1,22 @@
+body {
+    color: rgba(255, 255, 255, 0);
+    margin: 8px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.bg-red {
+    background-color: red;
+}
+
+.bg-blue {
+    background-color: blue;
+}
+
+P {
+    padding: 8px;
+    margin: 8px, 6px, 4px, 8px;
+}
+

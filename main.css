@@ -1,0 +1,28 @@
+body {
+    background: black;
+
+    display: flex;
+  justify-content: center; /* Centra horizontalmente */
+  align-items: center;    /* Centra verticalmente */
+  height: 100vh;          /* Asegura que el body ocupe toda la altura de la pantalla */
+  margin: 0;              /* Elimina márgenes por defecto */
+}
+
+.marco {
+    background-color: white;
+    width: 30%;
+    height: 600px;
+    
+    
+
+}
+
+/* <weight>: Use a value from 100 to 900
+/ <uniquifier>: Use a unique and descriptive class name */
+
+.montserrat-<uniquifier> {
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}

@@ -14,7 +14,7 @@ body {
 .post {
     background-color: white;
     width: 30%;
-    height: 715px;
+    height: 690px;
     border-radius: 3px;
     margin-bottom: 20px;
     
@@ -81,6 +81,7 @@ body {
   font-size: 30px;
   display: flex;
   
+  
 }
 
 .fa-bookmark {
@@ -107,7 +108,7 @@ body {
   display: flex;
   justify-content: center; /* Alineación horizontal */
   align-items: center;    /* Alineación vertical */
-  height: 50px;        /* Altura del contenedor */
+  height: 20px;        /* Altura del contenedor */
 
   
 }
